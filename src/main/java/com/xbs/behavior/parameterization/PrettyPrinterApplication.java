@@ -3,6 +3,9 @@ package com.xbs.behavior.parameterization;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * 打印主程序
+ */
 public class PrettyPrinterApplication {
     public static void main(String[] args) {
         List<Apple> inventorys = new ArrayList<>();
