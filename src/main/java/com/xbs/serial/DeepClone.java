@@ -3,12 +3,12 @@
  * Copyright 2014 IFlyUN. All rights reserved.<br>
  * <br>			 
  * Package: com.xbs.serial <br>
- * FileName: TestClone.java <br>
+ * FileName: DeepClone.java <br>
  * <br>
  * @version
  * @author bsxu
  * @created 2019年8月1日
- * @last Modified 
+ * @lastModified
  * @history
  */
 
